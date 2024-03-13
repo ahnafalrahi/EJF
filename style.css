@@ -462,7 +462,7 @@ html,body{
     /* background-color: #000000; */
     margin-top: 20vw;
     margin-bottom: 3vw;
-    padding-right: 2vw;
+    padding-left: 2vw;
     display: flex; 
     justify-content: end;  
     flex-direction: column;
@@ -490,7 +490,7 @@ html,body{
     /* background-color: #000000; */
     margin-top: -8vw;
     margin-bottom: 3vw;
-    padding-right: 2vw;
+    padding-left: 2vw;
     display: flex; 
     justify-content: end;  
     flex-direction: column;
